@@ -6,3 +6,4 @@ La battuta ha un diametro di 240 mm ed uno spessore di 12 mm con angolo di 3°
 
 Per ogni componente è riportata l'immagine dello stesso
 
+https://github.com/StefanoBrunetti/Kiln-Car-Wheel-01/issues/1
